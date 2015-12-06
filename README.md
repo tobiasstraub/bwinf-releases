@@ -17,32 +17,27 @@ Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswett
 * [Aufgabe 5](#bwinf-34-r1-5)
 
 **<a id="bwinf-34-r1-j1">Junioraufgabe 1</a>**<br>
-![Keine Auswahl](http://i.giphy.com/l41lRgNMT8P2I4QRW.gif)<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-34-r1-j2">Junioraufgabe 2</a>**<br>
-![Keine Auswahl](http://i.giphy.com/3oEduMtNnQPlp0DF84.gif)<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-34-r1-1">Aufgabe 1</a>**<br>
-![Keine Auswahl](http://i.giphy.com/vPN3zK9dNL236.gif)<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-2">Aufgabe 2</a>**<br>
-![Keine Auswahl](http://i.giphy.com/uWPGqy4rkgllS.gif)<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-3">Aufgabe 3</a>**<br>
-![Keine Auswahl](http://i.giphy.com/nR4L10XlJcSeQ.gif)<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-4">Aufgabe 4</a>**<br>
-![Keine Auswahl](http://i.giphy.com/Pe5919oNgXol2.gif)<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-5">Aufgabe 5</a>**<br>
-![Keine Auswahl](http://i.giphy.com/HoaHfvovCLSvu.gif)<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="contribution"></a>Contribution
 Falls Du in der Vergangenheit am Bundeswettbewerb Informatik teilgenommen hast, kannst Du in diesem Repository deine Einsendung veröffentlichen. Mache dazu einen entsprechenden Pull Request. Keine Ahnung von Git und GitHub? - Dann sende deinen Beitrag an [hello@commitcollective.com](mailto:hello@commitcollective.com). Wichtig: Mache deinen Beitrag nur öffentlich, wenn die entsprechende Runde bereits beendet wurde.

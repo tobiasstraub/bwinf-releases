@@ -1,0 +1,11 @@
+Bei einem Windows-Rechner sicherstellen, dass die Schluesselkarten.jar und die startSchluesselkarten.bat Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startSchluesselkarten.bat ausführen.
+Es erscheint die Aufforderung, die Anzahl der zu generierenden Schluesselkarten einzugeben. Nachdem diese eingegeben wurden,
+werden die Schluesselkarten nacheinander ausgegeben.
+
+
+
+Bei einem Linux- oder Mac-Rechner sicherstellen, dass die Schluesselkarten.jar und die startSchluesselkarten.sh Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startSchluesselkarten.sh ausführen.
+Es erscheint die Aufforderung, die Anzahl der zu generierenden Schluesselkarten einzugeben. Nachdem diese eingegeben wurden,
+werden die Schluesselkarten nacheinander ausgegeben.

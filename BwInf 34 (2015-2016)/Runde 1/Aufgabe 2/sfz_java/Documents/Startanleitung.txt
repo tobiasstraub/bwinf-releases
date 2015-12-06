@@ -1,0 +1,9 @@
+Bei einem Windows-Rechner sicherstellen, dass die ameisen.jar und die startAmeisen.bat Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startAmeisen.bat ausführen.
+Die Bewegung der Ameisen wird nun ausgegeben.
+
+
+
+Bei einem Linux- oder Mac-Rechner sicherstellen, dass die ameisen.jar und die startAmeisen.sh Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startAmeisen.sh ausführen.
+Die Bewegung der Ameisen wird nun ausgegeben.

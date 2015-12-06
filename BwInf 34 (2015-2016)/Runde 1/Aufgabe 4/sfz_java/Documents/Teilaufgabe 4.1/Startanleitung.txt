@@ -1,0 +1,9 @@
+Bei einem Windows-Rechner sicherstellen, dass die keyholes(Symmetry).jar und die startKeyholes(Symmetry).bat Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startKeyholes(Symmetry).bat ausführen.
+Das Ergnis der Rechnung erscheint in der Konsole.
+
+
+
+Bei einem Linux- oder Mac-Rechner sicherstellen, dass die keyholes(Symmetry).jar und die startKeyholes(Symmetry).sh Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startKeyholes(Symmetry).sh ausführen.
+Das Ergnis der Rechnung erscheint in der Konsole.

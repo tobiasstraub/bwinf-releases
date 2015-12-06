@@ -1,0 +1,9 @@
+Bei einem Windows-Rechner sicherstellen, dass die groker.jar und die startGroker.bat Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startGroker.bat ausführen.
+Es wird angezeigt, was der Gegner gesetzt hat und es erscheint die Aufforderung selber zu setzen. Das Spiel beginnt.
+
+
+
+Bei einem Linux- oder Mac-Rechner sicherstellen, dass die groker.jar und die startGroker.sh Dateien im gleichen Ordner liegen.
+Zum Starten des Programms einfach einen Doppelklick auf die startGroker.sh ausführen.
+Es wird angezeigt, was der Gegner gesetzt hat und es erscheint die Aufforderung selber zu setzen. Das Spiel beginnt.

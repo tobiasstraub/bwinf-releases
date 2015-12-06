@@ -1,0 +1,39 @@
+#version 430 core
+uniform mat4 mvp;
+uniform float tileSize;
+
+layout(location = 0) in vec4 position;
+layout(location = 1) in vec4 middle;
+layout(location = 2) in vec4 color;
+layout(location = 3) in uint mapDataID;
+
+layout(std430, binding = 4) buffer MapData
+{
+  uint mapData[];
+};
+
+out vec4 vtx_color;
+
+const uint nestFlag  = (1<<0);
+const uint antFlag   = (1<<1);
+const uint foodFlag  = (1<<2);
+const uint phFlag    = (1<<3);
+const uint antwfFlag = (1<<4);
+
+float checkFlag(uint collection, uint flag)
+{
+	return step(1, collection & flag);
+}
+
+void main()
+{
+	vec4 pos = mix(middle, position, tileSize);
+	gl_Position = mvp * pos;
+	vec4 out_color = color;
+	out_color = mix(out_color, vec4(1.0, 1.0, 0.5, 1.0), checkFlag(mapData[mapDataID], phFlag));
+	out_color = mix(out_color, vec4(0.0, 0.0, 0.0, 1.0), checkFlag(mapData[mapDataID], antFlag));
+	out_color = mix(out_color, vec4(0.5, 0.0, 0.0, 1.0), checkFlag(mapData[mapDataID], antwfFlag));
+	out_color = mix(out_color, vec4(0.0, 0.7, 0.0, 1.0), checkFlag(mapData[mapDataID], foodFlag));
+	out_color = mix(out_color, vec4(0.0, 0.0, 1.0, 1.0), checkFlag(mapData[mapDataID], nestFlag));
+	vtx_color = out_color;
+}

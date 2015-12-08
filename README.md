@@ -7,14 +7,7 @@ Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswett
 * [Runde 1](#bwinf-34-r1)
 
 ### <a id="bwinf-34-r1"></a>Runde 1 (September - November 2015)
-* **[Aufgaben](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgabenblatt341_simple.pdf)**
-* [Junioraufgabe 1](#bwinf-34-r1-j1)
-* [Junioraufgabe 2](#bwinf-34-r1-j2)
-* [Aufgabe 1](#bwinf-34-r1-1)
-* [Aufgabe 2](#bwinf-34-r1-2)
-* [Aufgabe 3](#bwinf-34-r1-3)
-* [Aufgabe 4](#bwinf-34-r1-4)
-* [Aufgabe 5](#bwinf-34-r1-5)
+**[Aufgaben](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgabenblatt341_simple.pdf)** | [Junioraufgabe 1](#bwinf-34-r1-j1) | [Junioraufgabe 2](#bwinf-34-r1-j2) | [Aufgabe 1](#bwinf-34-r1-1) | [Aufgabe 2](#bwinf-34-r1-2) | [Aufgabe 3](#bwinf-34-r1-3) | [Aufgabe 4](#bwinf-34-r1-4) | [Aufgabe 5](#bwinf-34-r1-5)
 
 **<a id="bwinf-34-r1-j1">Junioraufgabe 1</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)

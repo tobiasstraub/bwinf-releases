@@ -1,0 +1,13 @@
+5 9
+#########
+#  K    #
+# ###   #
+#       #
+#########
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../kassiopeia3.txt 
+Es ist möglich, alle weißen Felder zu erreichen.
+OOOOSSWNWSWWWWNNO

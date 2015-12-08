@@ -1,0 +1,11 @@
+3 15
+###############
+#            K#
+###############
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../kassiopeia5.txt 
+Es ist möglich, alle weißen Felder zu erreichen.
+WWWWWWWWWWWW

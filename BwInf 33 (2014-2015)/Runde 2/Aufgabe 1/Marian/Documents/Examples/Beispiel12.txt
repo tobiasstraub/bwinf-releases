@@ -1,0 +1,26 @@
+Gewichtsschranke d eingeben:
+15
+Komponenten eingeben (wenn fertig, nichts eingeben und Enter drücken):
+P 50 ^ E
+S 35 ^ _F
+
+===============================================================
+
+Es wird die Maximaldifferenz 15 verwendet.
+
+Für folgende Komponenten wird eine Lösung gesucht:
+0 - Person - Gewicht: 50 - Startposition: TOP_FREE - Endposition: UNKNOWN
+1 - Stein - Gewicht: 35 - Startposition: TOP_FREE - Endposition: BOTTOM_FREE
+
+===============================================================
+
+Lösung suchen...
+
+===============================================================
+
+Eine kürzeste Lösung wurde gefunden.
+Dafür werden 3 Fahrten benötigt.
+
+[1] | []
+[0] | [1]
+[1] | []

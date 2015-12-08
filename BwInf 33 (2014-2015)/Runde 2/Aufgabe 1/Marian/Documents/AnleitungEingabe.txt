@@ -1,0 +1,23 @@
+ANLEITUNG FÜR DIE EINGABE DER KOMPONENTEN:
+
+Komponenten müssen in der Form 'Art Gewicht Anfangsposition Endposition' eingegeben werden.
+
+Die Art ist entweder P für Person oder S für Stein.
+
+Für die Positionen gibt es folgende Möglichkeiten:
+  '^F' bzw. '_F' für Positionen oben bzw. unten außerhalb des Korbes,
+  '^K' bzw. '_K' für Positionen oben bzw. unten im Korb,
+  '^' bzw. '_' für Positionen oben bzw. unten, der Korb ist dabei egal, 
+  'F' bzw. 'K' für Positionen außerhalb des Korbes bzw. im Korb, die Seite ist dabei egal, oder 
+  'E' für Positionen, die komplett egal sind.
+
+Für Startpositionen sind nur '^F', '_F', '^K' und '_K' möglich (spezifische Positionen).
+Für Endpositionen gehen alle Positionen. Wenn sie weggelassen wird, werden die Standardpositionen verwendet (s. Aufgabenstellung).
+
+Bei Startpositionen kann man '^F' bzw. '_F' auch durch '^' bzw. '_' abkürzen.
+
+'^' ist durch 'O' oder 'Oben' austauschbar, '_' durch 'U' oder 'Unten',
+'F' durch 'Frei', 'K' durch 'Korb' und 'E' durch 'Egal'.
+
+Beispiel, bei dem ein Stein 20 Einheiten wiegt, am Anfang oben, nicht im Korb und am Ende unten, im Korb sein soll:
+S 20 ^ _Korb

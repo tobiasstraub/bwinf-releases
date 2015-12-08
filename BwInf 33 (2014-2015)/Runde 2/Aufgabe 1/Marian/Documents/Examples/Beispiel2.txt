@@ -1,0 +1,47 @@
+Gewichtsschranke d eingeben:
+1
+Komponenten eingeben (wenn fertig, nichts eingeben und Enter drücken):
+S 1 ^
+P 2 ^
+S 4 ^
+P 8 ^
+S 16 ^
+P 32 ^
+S 64 ^
+
+===============================================================
+
+Es wird die Maximaldifferenz 1 verwendet.
+
+Für folgende Komponenten wird eine Lösung gesucht:
+0 - Stein - Gewicht: 1 - Startposition: TOP_FREE - Endposition: UNKNOWN
+1 - Person - Gewicht: 2 - Startposition: TOP_FREE - Endposition: BOTTOM
+2 - Stein - Gewicht: 4 - Startposition: TOP_FREE - Endposition: UNKNOWN
+3 - Person - Gewicht: 8 - Startposition: TOP_FREE - Endposition: BOTTOM
+4 - Stein - Gewicht: 16 - Startposition: TOP_FREE - Endposition: UNKNOWN
+5 - Person - Gewicht: 32 - Startposition: TOP_FREE - Endposition: BOTTOM
+6 - Stein - Gewicht: 64 - Startposition: TOP_FREE - Endposition: UNKNOWN
+
+===============================================================
+
+Lösung suchen...
+
+===============================================================
+
+Eine kürzeste Lösung wurde gefunden.
+Dafür werden 14 Fahrten benötigt.
+
+[0] | []
+[1] | [0]
+[0, 2, 4] | []
+[3] | [0, 1, 2]
+[0, 2] | []
+[1] | [0]
+[0] | []
+[5] | [0, 1, 2, 3, 4]
+[0, 2] | []
+[1] | [0]
+[0] | []
+[3] | [0, 1, 2]
+[0, 2, 4, 6] | []
+[1] | [0]

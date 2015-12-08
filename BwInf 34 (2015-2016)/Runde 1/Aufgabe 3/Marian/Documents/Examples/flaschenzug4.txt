@@ -1,0 +1,9 @@
+3000
+11
+5 100 100 200 500 500 600 800 800 1000 1000
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../flaschenzug4.txt 
+743587168174197919278525 Lösungen

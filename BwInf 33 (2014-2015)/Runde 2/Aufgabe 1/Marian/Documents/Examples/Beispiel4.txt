@@ -1,0 +1,64 @@
+Gewichtsschranke d eingeben:
+15
+Komponenten eingeben (wenn fertig, nichts eingeben und Enter drücken):
+P 116 ^
+P 231 ^
+S 50 _
+P 55 ^
+P 101 _
+P 185 ^
+P 211 _
+P 200 _
+P 224 ^
+
+===============================================================
+
+Es wird die Maximaldifferenz 15 verwendet.
+
+Für folgende Komponenten wird eine Lösung gesucht:
+0 - Person - Gewicht: 116 - Startposition: TOP_FREE - Endposition: BOTTOM
+1 - Person - Gewicht: 231 - Startposition: TOP_FREE - Endposition: BOTTOM
+2 - Stein - Gewicht: 50 - Startposition: BOTTOM_FREE - Endposition: UNKNOWN
+3 - Person - Gewicht: 55 - Startposition: TOP_FREE - Endposition: BOTTOM
+4 - Person - Gewicht: 101 - Startposition: BOTTOM_FREE - Endposition: BOTTOM
+5 - Person - Gewicht: 185 - Startposition: TOP_FREE - Endposition: BOTTOM
+6 - Person - Gewicht: 211 - Startposition: BOTTOM_FREE - Endposition: BOTTOM
+7 - Person - Gewicht: 200 - Startposition: BOTTOM_FREE - Endposition: BOTTOM
+8 - Person - Gewicht: 224 - Startposition: TOP_FREE - Endposition: BOTTOM
+
+===============================================================
+
+Lösung suchen...
+
+===============================================================
+
+Eine kürzeste Lösung wurde gefunden.
+Dafür werden 27 Fahrten benötigt.
+
+[1, 3, 5] | [2, 6, 7]
+[2] | []
+[0] | [2, 3]
+[2] | []
+[3, 6, 7] | [0, 2, 4, 5]
+[2] | []
+[0] | [2, 3]
+[2] | []
+[3, 4, 8] | [0, 2, 7]
+[2] | []
+[0] | [2, 3]
+[2] | []
+[5, 7] | [2, 4, 8]
+[2] | []
+[3, 4, 8] | [0, 2, 7]
+[2] | []
+[0] | [2, 3]
+[2] | []
+[3] | [2]
+[2] | []
+[7] | [5]
+[5] | [0, 3]
+[3] | [2]
+[2] | []
+[0] | [2, 3]
+[2] | []
+[3] | [2]

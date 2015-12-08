@@ -1,0 +1,9 @@
+10
+3
+5 8 10
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../flaschenzug2.txt 
+48 Lösungen

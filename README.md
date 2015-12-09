@@ -3,6 +3,7 @@ Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswett
 
 * [Bundeswettbewerb Informatik 34](#bwinf-34)
 * [Bundeswettbewerb Informatik 33](#bwinf-33)
+* [Bundeswettbewerb Informatik 32](#bwinf-32)
 
 ## <a id="bwinf-34"></a>Bundeswettbewerb Informatik 34 (2015 / 2016)
 [Runde 1](#bwinf-34-r1)

@@ -8,7 +8,7 @@ Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswett
 [Runde 1](#bwinf-34-r1)
 
 ### <a id="bwinf-34-r1"></a>Runde 1 (September - November 2015)
-**[Aufgaben](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgabenblatt341_simple.pdf)** | [Junioraufgabe 1](#bwinf-34-r1-j1) | [Junioraufgabe 2](#bwinf-34-r1-j2) | [Aufgabe 1](#bwinf-34-r1-1) | [Aufgabe 2](#bwinf-34-r1-2) | [Aufgabe 3](#bwinf-34-r1-3) | [Aufgabe 4](#bwinf-34-r1-4) | [Aufgabe 5](#bwinf-34-r1-5)
+**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgabenblatt341_simple.pdf)** | [Junioraufgabe 1](#bwinf-34-r1-j1) | [Junioraufgabe 2](#bwinf-34-r1-j2) | [Aufgabe 1](#bwinf-34-r1-1) | [Aufgabe 2](#bwinf-34-r1-2) | [Aufgabe 3](#bwinf-34-r1-3) | [Aufgabe 4](#bwinf-34-r1-4) | [Aufgabe 5](#bwinf-34-r1-5)
 
 **<a id="bwinf-34-r1-j1">Junioraufgabe 1</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
@@ -43,7 +43,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 [Runde 1](#bwinf-33-r1) | [Runde 2](#bwinf-33-r2)
 
 ### <a id="bwinf-33-r1"></a>Runde 1 (September - Dezember 2014)
-**[Aufgaben](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf33/aufgabenblatt331_simple.pdf)** | [Junioraufgabe 1](#bwinf-33-r1-j1) | [Junioraufgabe 2](#bwinf-33-r1-j2) | [Aufgabe 1](#bwinf-33-r1-1) | [Aufgabe 2](#bwinf-33-r1-2) | [Aufgabe 3](#bwinf-33-r1-3) | [Aufgabe 4](#bwinf-33-r1-4) | [Aufgabe 5](#bwinf-33-r1-5)
+**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf33/aufgabenblatt331_simple.pdf)** | [Junioraufgabe 1](#bwinf-33-r1-j1) | [Junioraufgabe 2](#bwinf-33-r1-j2) | [Aufgabe 1](#bwinf-33-r1-1) | [Aufgabe 2](#bwinf-33-r1-2) | [Aufgabe 3](#bwinf-33-r1-3) | [Aufgabe 4](#bwinf-33-r1-4) | [Aufgabe 5](#bwinf-33-r1-5)
 
 **<a id="bwinf-33-r1-j1">Junioraufgabe 1</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
@@ -69,7 +69,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 * Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ### <a id="bwinf-33-r2"></a>Runde 2 (Januar - April 2015)
-**[Aufgaben](http://i.giphy.com/9J7tdYltWyXIY.gif)** | [Aufgabe 1](#bwinf-33-r2-1) | [Aufgabe 2](#bwinf-33-r2-2) | [Aufgabe 3](#bwinf-33-r2-3)
+**[Aufgabenstellung](http://i.giphy.com/9J7tdYltWyXIY.gif)** | [Aufgabe 1](#bwinf-33-r2-1) | [Aufgabe 2](#bwinf-33-r2-2) | [Aufgabe 3](#bwinf-33-r2-3)
 
 **<a id="bwinf-33-r2-1">Aufgabe 1</a>**<br>
 * Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))

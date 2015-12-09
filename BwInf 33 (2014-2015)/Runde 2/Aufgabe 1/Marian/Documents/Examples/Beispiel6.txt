@@ -1,0 +1,31 @@
+Gewichtsschranke d eingeben:
+20
+Komponenten eingeben (wenn fertig, nichts eingeben und Enter drücken):
+P 109 ^
+S 120 _
+P 156 ^
+P 55 ^
+P 149 ^
+P 185 ^
+P 98 _
+
+===============================================================
+
+Es wird die Maximaldifferenz 20 verwendet.
+
+Für folgende Komponenten wird eine Lösung gesucht:
+0 - Person - Gewicht: 109 - Startposition: TOP_FREE - Endposition: BOTTOM
+1 - Stein - Gewicht: 120 - Startposition: BOTTOM_FREE - Endposition: UNKNOWN
+2 - Person - Gewicht: 156 - Startposition: TOP_FREE - Endposition: BOTTOM
+3 - Person - Gewicht: 55 - Startposition: TOP_FREE - Endposition: BOTTOM
+4 - Person - Gewicht: 149 - Startposition: TOP_FREE - Endposition: BOTTOM
+5 - Person - Gewicht: 185 - Startposition: TOP_FREE - Endposition: BOTTOM
+6 - Person - Gewicht: 98 - Startposition: BOTTOM_FREE - Endposition: BOTTOM
+
+===============================================================
+
+Lösung suchen...
+
+===============================================================
+
+Es gibt keine Lösung.

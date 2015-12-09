@@ -1,0 +1,9 @@
+2000
+18
+100 110 130 170 180 200 220 220 230 250 280 300 340 350 350 370 380 390
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../flaschenzug5.txt 
+4237618332168130643734395335220863408628 Lösungen

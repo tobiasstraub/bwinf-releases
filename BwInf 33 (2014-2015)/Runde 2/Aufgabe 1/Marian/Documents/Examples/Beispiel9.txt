@@ -1,0 +1,19 @@
+Gewichtsschranke d eingeben:
+1
+Komponenten eingeben (wenn fertig, nichts eingeben und Enter drücken):
+S 50 ^K _F
+
+===============================================================
+
+Es wird die Maximaldifferenz 1 verwendet.
+
+Für folgende Komponenten wird eine Lösung gesucht:
+0 - Stein - Gewicht: 50 - Startposition: TOP_BASKET - Endposition: BOTTOM_FREE
+
+===============================================================
+
+Lösung suchen...
+
+===============================================================
+
+Es gibt keine Lösung.

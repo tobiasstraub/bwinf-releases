@@ -1,0 +1,34 @@
+200cm in 10 Teilen.
+10 x 20 cm-Teile.
+Handtasche mit 50cm Länge, aber <10cm Breite.
+Längs: Max. zwei Teile in Verlängerung.
+Quer: Kein Teil.
+9 Verbindungen von insgesamt 10 Teilen.
+Verbindung geknickt oder gerade (0, 1).
+Keine zwei Verbindungen nacheinander 0.
+60 Tage. 60 Möglichkeiten? ? Finale Frage
+Kleinste Zahl: 010101010
+
+Bei Umschlag werden (Stellenrechts) Zahlen 0.
+Eine 0 wird nach (PositionVonRechts^2) Zählungen 1.
+
+Return % of removed numbers
+Num 1 Return 0
+Num 2 Return 25
+Num 3 Return 37.5
+Num 4 Return 50
+Num 5 Return 59.375
+Num 6 Return 67.1875
+Num 7 Return 73.4375
+Num 8 Return 78.515625
+Num 9 Return 82.6171875
+Num 10 Return 85.9375
+Num 11 Return 88.623046875
+Num 12 Return 90.7958984375
+Num 13 Return 92.5537109375
+Num 14 Return 93.975830078125
+Num 15 Return 95.126342773438
+Num 16 Return 96.05712890625
+Num 17 Return 96.810150146484
+Num 18 Return 97.419357299805
+Num 19 Return 99.202346801758 

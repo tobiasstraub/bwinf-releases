@@ -1,0 +1,13 @@
+5 8
+########
+#  K   #
+# ###  #
+#      #
+########
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../kassiopeia2.txt 
+Es ist möglich, alle weißen Felder zu erreichen.
+Es gibt jedoch keinen Weg, mit dem kein weißes Feld mehrmals betreten werden muss.

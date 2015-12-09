@@ -1,0 +1,15 @@
+7 11
+###########
+#     #   #
+#   ###   #
+#   #     #
+# K ###   #
+#     #   #
+###########
+
+Programmausgaben und -eingaben:
+
+Pfad zur Datei mit der Eingabe eingeben:
+/.../kassiopeia1.txt 
+Es ist nicht möglich, alle weißen Felder zu erreichen.
+

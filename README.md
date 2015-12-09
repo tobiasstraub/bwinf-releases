@@ -69,7 +69,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 * Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ### <a id="bwinf-33-r2"></a>Runde 2 (Januar - April 2015)
-**[Aufgabenstellung](http://i.giphy.com/9J7tdYltWyXIY.gif)** | [Aufgabe 1](#bwinf-33-r2-1) | [Aufgabe 2](#bwinf-33-r2-2) | [Aufgabe 3](#bwinf-33-r2-3)
+**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf33/aufgaben332.pdf)** | [Aufgabe 1](#bwinf-33-r2-1) | [Aufgabe 2](#bwinf-33-r2-2) | [Aufgabe 3](#bwinf-33-r2-3)
 
 **<a id="bwinf-33-r2-1">Aufgabe 1</a>**<br>
 * Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))

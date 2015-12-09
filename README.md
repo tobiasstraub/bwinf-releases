@@ -87,36 +87,28 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 [Runde 1](#bwinf-32-r1)
 
 ### <a id="bwinf-32-r1"></a>Runde 1 (September - Dezember 2013)
-**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgabenblatt341_simple.pdf)** | [Junioraufgabe 1](#bwinf-32-r1-j1) | [Junioraufgabe 2](#bwinf-32-r1-j2) | [Aufgabe 1](#bwinf-32-r1-1) | [Aufgabe 2](#bwinf-32-r1-2) | [Aufgabe 3](#bwinf-32-r1-3) | [Aufgabe 4](#bwinf-32-r1-4) | [Aufgabe 5](#bwinf-32-r1-5)
+**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf32/Aufgabenblatt321_Aufgaben.pdf)** | [Junioraufgabe 1](#bwinf-32-r1-j1) | [Junioraufgabe 2](#bwinf-32-r1-j2) | [Aufgabe 1](#bwinf-32-r1-1) | [Aufgabe 2](#bwinf-32-r1-2) | [Aufgabe 3](#bwinf-32-r1-3) | [Aufgabe 4](#bwinf-32-r1-4) | [Aufgabe 5](#bwinf-32-r1-5)
 
 **<a id="bwinf-32-r1-j1">Junioraufgabe 1</a>**<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/ByteSector/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r1-j2">Junioraufgabe 2</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r1-1">Aufgabe 1</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-32-r1-2">Aufgabe 2</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-32-r1-3">Aufgabe 3</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-32-r1-4">Aufgabe 4</a>**<br>
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-32-r1-5">Aufgabe 5</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 ## <a id="contribution"></a>Contribution
 Falls Du in der Vergangenheit am Bundeswettbewerb Informatik teilgenommen hast, kannst Du in diesem Repository deine Einsendung veröffentlichen. Mache dazu einen entsprechenden Pull Request. Keine Ahnung von Git und GitHub? - Dann sende deinen Beitrag an [hello@commitcollective.com](mailto:hello@commitcollective.com). Wichtig: Mache deinen Beitrag nur öffentlich, wenn die entsprechende Runde bereits beendet wurde.

@@ -15,30 +15,30 @@ Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswett
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-34-r1-j2">Junioraufgabe 2</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Executables](/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-1">Aufgabe 1</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-2">Aufgabe 2</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* sfz_java ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-3">Aufgabe 3</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-4">Aufgabe 4</a>**<br>
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* sfz_java ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%204/sfz_java/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-5">Aufgabe 5</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* sfz_java ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* sfz_java ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%205/sfz_java/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="bwinf-33"></a>Bundeswettbewerb Informatik 33 (2014 / 2015)
 [Runde 1](#bwinf-33-r1) | [Runde 2](#bwinf-33-r2)
@@ -50,39 +50,39 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-33-r1-j2">Junioraufgabe 2</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-1">Aufgabe 1</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-2">Aufgabe 2</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-3">Aufgabe 3</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-4">Aufgabe 4</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-33-r1-5">Aufgabe 5</a>**<br>
-* ByteSector ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ### <a id="bwinf-33-r2"></a>Runde 2 (Januar - April 2015)
 **[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf33/aufgaben332.pdf)** | [Aufgabe 1](#bwinf-33-r2-1) | [Aufgabe 2](#bwinf-33-r2-2) | [Aufgabe 3](#bwinf-33-r2-3)
 
 **<a id="bwinf-33-r2-1">Aufgabe 1</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Naalunth/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Naalunth/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-2">Aufgabe 2</a>**<br>
-* Tim Schmidt ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Schmidt/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Tim Schmidt ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Schmidt/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-3">Aufgabe 3</a>**<br>
-* Marian ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Source) | [Documents](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Naalunth ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Naalunth/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Tim Schmidt ([Source](https://github.com/CommitCollective/bwinf-releases/tree/master/BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Tim%20Schmidt/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Naalunth ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Naalunth/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Tim Schmidt ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Tim%20Schmidt/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="bwinf-32"></a>Bundeswettbewerb Informatik 32 (2013 / 2014)
 [Runde 1](#bwinf-32-r1)
@@ -91,10 +91,10 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf32/Aufgabenblatt321_Aufgaben.pdf)** | [Junioraufgabe 1](#bwinf-32-r1-j1) | [Junioraufgabe 2](#bwinf-32-r1-j2) | [Aufgabe 1](#bwinf-32-r1-1) | [Aufgabe 2](#bwinf-32-r1-2) | [Aufgabe 3](#bwinf-32-r1-3) | [Aufgabe 4](#bwinf-32-r1-4) | [Aufgabe 5](#bwinf-32-r1-5)
 
 **<a id="bwinf-32-r1-j1">Junioraufgabe 1</a>**<br>
-* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/ByteSector/Source) | Keine Dokumente vorhanden. | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/ByteSector/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r1-j2">Junioraufgabe 2</a>**<br>
-* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r1-1">Aufgabe 1</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)

@@ -1,0 +1,94 @@
+<html>
+	<head>
+		<!-- Zeichensatz -->
+		<meta charset="utf8" />
+		
+		<!-- Stylesheet einbinden -->
+		<link href="style_2.css" type="text/css" rel="stylesheet" />
+		
+		<!-- Javascript-Datei einbinden -->
+		<script type="text/javascript" src="script_2.js" ></script>
+	</head>
+	<body onLoad="javascript:newGame(); ">
+		<div id="wrapper">
+			<div class="row">
+				<!-- Überschrift -->
+				<h1>Panorama Kegeln 2.2 :: Spielen</h1>
+				<h2>Tim Hollmann @ 33.BwInf 2014/'15</h2>
+				
+			</div>
+			
+			<hr style="width: 745px; border: 0; height: 0; border-top: 1px solid rgba(0,0,0,0.1); border-bottom: 1px solid rgba(255,255,255,0.3);" />
+			<div class="row">
+				<div id="phase" style="">Phase <b>0</b>: Randy's Zug.</div>
+			</div>
+			
+			<div class="row">
+				<canvas id="canvas" width="300" height="300" style="border: 1px dotted black;">Ihr Browser unterstützt leider kein Canvas. Aktualisieren Sie ihn.</canvas>
+				<textarea id="kegelBox" style="width: 450px; height: 300px;"></textarea>
+			</div>
+			
+			<div class="row">
+				<input class="button" type="button" id="noEndRoundButton" value="Runde nicht beenden" onClick="javascript:randyZug();" />
+				<input class="button" type="button"  id="endRoundButton" value="Runde beenden" onClick="javascript:newRound();"/>
+			</div>
+			
+			<div class="row">
+				<textarea id="roundBox" style="width: 200px; height: 300px;"></textarea>
+				<textarea id="logBox" style="width: 550px; height: 300px;"></textarea>
+			</div>
+
+			<div class="row">
+				<div id="optionBox" style=" width: 750px; background-color: white; border: 1px dotted gray;">
+					<div style="background-color: rgb(200, 200, 200); padding: 5px;">
+						<b>Optionen</b>
+					</div>
+					<table style="margin: 5px;">
+						<tr>
+							<td>Anzahl der Kegel</td>
+							<td><input id="inputAnzahlKegel" value="20" /></td>
+						</tr>
+						<tr>
+							<td>Kreisradius</td>
+							<td><input id="inputKreisRadius" value="2" /></td>
+						</tr>
+						<tr>
+							<td>Durchmesser der Wurfkugel</td>
+							<td><input id="inputDurchmesserKugel" value="1" /></td>
+						</tr>
+						<tr>
+							<td>Wartezeit</td>
+							<td><input id="inputWartezeit" value="2000" />ms</td>
+						</tr>
+						<tr>
+							<td>Radius der Kegel-Kreise</td>
+							<td><input id="inputRadiusKegel" value="2" />px</td>
+						</tr>
+						<tr>
+							<td>Farbe des Kreises</td>
+							<td><input id="inputKreisFarbe" value="black" /></td>
+						</tr>
+						<tr>
+							<td>Farbe der Kegel</td>
+							<td><input id="inputKegelFarbe" value="blue" /></td>
+						</tr>
+						<tr>
+							<td>Farbe der Eingabepunkte</td>
+							<td><input id="inputEingabeFarbe" value="green" /></td>
+						</tr>
+						<tr>
+							<td>Farbe der Wurflinie von Anna</td>
+							<td><input id="inputWurfFarbeAnna" value="red" /></td>
+						</tr>
+						<tr>
+							<td>Farbe der Wurflinie von Randy</td>
+							<td><input id="inputWurfFarbeRandy" value="purple" /></td>
+						</tr>
+					</table>
+					<i>Ihre Änderungen werden spätestens in der nächsten Runde übernommen</i>
+				</div>
+			</div>
+			
+		</div>
+	</body>
+</html>

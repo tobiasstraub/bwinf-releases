@@ -1,0 +1,64 @@
+
++-----------------------------------------------+ 
+| Mississippi v3 - DNS-Sequenzierungs-Programm  | 
+| Tim Hollmann @ 33.BwInf 2.Runde 3.Aufgabe     | 
++-----------------------------------------------+ 
+
+Eingelesene Zeichenketten-L[ae]nge:100000 (E.coli.100000.txt)
+
+l:	10
+k:	5
+
+=== Verarbeitungsschritt 1 : Erstellen des Suffix-Baumes ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0.063 Sekunde(n).
+
+=== Verarbeitungsschritt 2 : Auswerten des erstellten Suffix-Baumes ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0.062 Sekunde(n).
+73 vorl[ae]ufige L[oe]sungen gefunden.
+
+=== Verarbeitungsschritt 3 : Filtern der L[oe]sungen ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0 Sekunde(n).
+
+
+=== L[oe]sungen (36) :
+Nr.	H[ae]ufigkeit	L[ae]nge	Repetition
+---------------------------------------------------
+001	5		14		TTATCCGGCCTACA
+002	5		12		CTTATCCGGCCT
+003	5		11		GCTGGCGCTGG
+004	5		10		ACACCGGTGA
+005	5		10		AAAGTGGCGG
+006	5		10		AGCGCCAGCA
+007	5		10		GATGCGCCAG
+008	5		10		GAACTGAAAG
+009	5		10		GCAGCGCCAG
+010	5		10		GGCGCTGGCG
+011	5		10		GGCCTACAAA
+012	5		10		GGTGGTGGTG
+013	5		10		GCTTCCAGCA
+014	5		10		GCCAGCGTCG
+015	5		10		CTGGCGGTGG
+016	5		10		GCCTACAAAA
+017	5		10		GCTGGCGTTA
+018	5		10		TTGGCGGCGG
+019	5		10		CAGCGTCGCA
+020	5		10		CAGCGCCAGC
+021	5		10		CTGGCTGGCG
+022	5		10		CTGGCGGGCG
+023	5		10		TTTCAGCGCC
+024	5		10		TTCTGGCTGG
+025	5		10		TTCAGCGCCT
+026	5		10		TCAGCGCCTG
+027	5		10		TGGTGGCGAT
+028	6		11		TGCCGGATGCG
+029	6		11		TTATCCGGCCT
+030	6		10		CTGGCGCTGG
+031	6		10		GCTGATGGCG
+032	6		10		GCTGGCGCTG
+033	6		10		CGCTGGCGCT
+034	7		10		CTGGCGGAAG
+035	7		10		AAACTGGCGG
+036	8		10		GCCGGATGCG

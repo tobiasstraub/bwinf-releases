@@ -1,0 +1,25 @@
+
+ +===========================================+
+ | Kassiopeia v.2.1 - Junioraufgabe 2        |
+ +-------------------------------------------+
+ | Tim Hollmann                              |
+ | @ 34.Bundeswettbewerb Informatik 2015/'16 |
+ +===========================================+
+
+
+Geladenes Spielfeld ( 6 x 13): 
+
+#############
+#           #
+#   ####    #
+#   #  #    #
+#           #
+#############
+
+Startposition: (11 | 2)
+Anzahl der Weißen Felder: 38
+
+Starte Tiefensuche ...fertig.
+
+Können alle Blätter erreicht werden? : Ja.
+

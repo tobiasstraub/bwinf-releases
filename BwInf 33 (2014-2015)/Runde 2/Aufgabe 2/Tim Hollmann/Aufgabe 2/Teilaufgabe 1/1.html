@@ -1,0 +1,83 @@
+﻿<!-- Panorama-Kegeln :: Tim Hollmann @ 33.BwInf - Runde 2 Aufgabe 2.1 -->
+
+<html>
+	<head>
+		<!-- Zeichensatz -->
+		<meta charset="utf8" />
+		
+		<!-- Stylesheet einbinden -->
+		<link href="style_1.css" type="text/css" rel="stylesheet" />
+		
+		<!-- Javascript-Datei einbinden -->
+		<script type="text/javascript" src="script_1.js"></script>
+		
+	</head>
+	<body onLoad="javascript:main();">
+		<div id="wrapper">
+			<div id="content">
+				<div class="row">
+					<h1>Panorama Kegeln 2.1 :: Spielfeld generieren</h1>
+					<h2>Tim Hollmann @ 33.BwInf 2014/'15</h2>
+				</div>
+				<div class="row">
+					<!-- Zeichenfläche -->
+					<div class="item">
+						<canvas id="canvas" width="300" height="300" style="border: 1px dotted gray; background-color: white;">Ihr Browser unterstützt leider kein Canvas. Aktualisieren Sie ihn.</canvas>
+					</div>
+					
+					<div class="item">
+						<textarea id="kegelBox" style="width: 500px; height: 300px; resize: none;"></textarea>
+					</div>
+					
+					
+					<div class="clearfix"></div>
+				</div>
+				
+				<div class="row" style="min-height: 25px; padding: 0; margin-left: 20px;">
+					
+					<!-- Speichern-Dialog -->
+					<input type="button" class="button" value="Bild Speichern" onClick="javascript:saveCanvas()" />
+					<!-- Neue Kegel generieren -->
+					<input type="button" class="button" value="Neue Kegel generieren" onClick="javascript:main();" />
+					
+				</div>
+				
+				<div class="row">
+					<div id="optionEventBox"><b>Optionen</b></div>
+					<div id="optionBoxContent">
+						<table>
+							<tr>
+								<td>Anzahl der Kegel</td>
+								<td><input value="20" id="anzahlKegel" placeholder="Anzahl der Kegel" /></td>
+							</tr>
+							<tr>
+								<td>Radius des Kreises</td>
+								<td><input value="2" id="kreisRadius" placeholder="Radius des Kreises" /></td>
+							</tr>								<tr>
+								<td>Farbe des Kreises</td>
+								<td><input value="darkblue" id="kreisFarbe" placeholder="Farbe des Kreises" /></td>
+							</tr>
+							<tr>
+								<td>Farbe der Kegel</td>
+								<td><input value="red" id="kegelFarbe" placeholder="Farbe der Kegel" /></td>
+							</tr>
+							<tr>									<td>Radius der Kegel-Kreise</td>
+								<td><input value="2" id="kegelRadius" placeholder="Radius des Kreises, der einen Kegel repräsentiert" /></td>
+							</tr>
+						</table>
+					
+						<p><i>Zum Übernehmen der Änderungen klicken Sie auf 'Neue Kegel generieren'</i></p>
+					
+					</div>
+				</div>
+
+			<div class="clearfix"></div>
+			
+			</div>
+			
+			
+		</div>
+		
+	</body>
+
+<html>

@@ -1,0 +1,104 @@
+﻿<html>
+	<head>
+		<!-- Stylesheet einbinden -->
+		<link href="style_3.css" type="text/css" rel="stylesheet" />
+		
+		<!-- Titel -->
+		<title>Aufgabe 2.3 :: KI - Spiel-Initialisierung | Tim Hollmann @ 33.BwInf 2014/'15</title>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div class="row">
+				<h1>Aufgabe 2.3 :: KI</h1>
+				<h2>33.BwInf 2.Runde - Tim Hollmann</h2>
+			</div>
+			<hr>
+			<div class="row">
+				<h2>Spiel-Initialisierung</h2>
+				<Form action="game.php" method="get">
+					<fieldset class="settingBox">
+						<legend><strong>Spiel-Einstellungen</strong></legend>
+						<table>
+							<tr>
+								<td style="width: 300px;">Anzahl der zu spielenden Runden</td>
+								<td><input type="number" name="anzahlRunden" value="10" /></td>
+							</tr>
+							<tr>
+								<td>Anzahl der Kegel auf dem Spielfeld</td>
+								<td><input type="number" name="anzahlKegel" value="20" /></td>
+							</tr>
+							<tr>
+								<td>Radius des Spielfeld-Kreises</td>
+								<td><input type="number" name="kreisRadius" value="4" /></td>
+							</tr>
+							<tr>
+								<td>Radius der Wurf-Kugel</td>
+								<td><input type="number" name="durchmesserKugel" value="1" /></td>
+							</tr>
+							<tr>
+								<td>Gleichmäßigkeit der Kegel-Verteilung (1-2)</td>
+								<td><input name="verteilungsFaktor" value="1.5"></td>
+							</tr>
+						</table>
+					</fieldset>
+					
+					<fieldset class="settingBox">
+						<legend><strong>Darstellungs-Optionen</strong></legend>
+						<table>
+							<tr>
+								<td style="width: 300px;">Durchmesser der Kegel</td>
+								<td><input type="number" name="kegelDurchmesser" value="3" /></td>
+							</tr>
+							<tr>
+								<td>Auflösung der erzeugten Bilder</td>
+								<td><input type="number" name="bildAufloesung" value="350" /></td>
+							</tr>
+							<tr>
+								<td>Zwischenstände anzeigen?</td>
+								<td><SELECT name="zwischenstand"><option value="0">Nein</option><option selected value="1">Ja</option></SELECT></td>
+							</tr>
+							<tr>
+								<td>Farbe des Kreises (RGB)</td>
+								<td>
+									<input class="rgbInput" type="number" name="kreisFarbeR" value="54"/>
+									<input class="rgbInput" type="number" name="kreisFarbeG" value="87" />
+									<input class="rgbInput" type="number" name="kreisFarbeB" value="255"/>
+								</td>
+							</tr>
+							<tr>
+								<td>Farbe der Kegel (RGB)</td>
+								<td>
+									<input class="rgbInput" type="number" name="kegelFarbeR" value="255"/>
+									<input class="rgbInput" type="number" name="kegelFarbeG" value="123"/>
+									<input class="rgbInput" type="number" name="kegelFarbeB" value="28"/>
+								</td>
+							</tr>
+							
+							<tr>
+								<td>Farbe von Annas Wurf (RGB)</td>
+								<td>
+									<input class="rgbInput" type="number" name="wurfFarbeAnnaR" value="28"/>
+									<input class="rgbInput" type="number" name="wurfFarbeAnnaG" value="177"/>
+									<input class="rgbInput" type="number" name="wurfFarbeAnnaB" value="255"/>
+								</td>
+							</tr>
+							<tr>
+								<td>Farbe von Randys Wurf (RGB)</td>
+								<td>
+									<input class="rgbInput" type="number" name="wurfFarbeRandyR" value="255"/>
+									<input class="rgbInput" type="number" name="wurfFarbeRandyG" value="28"/>
+									<input class="rgbInput" type="number" name="wurfFarbeRandyB" value="244"/>
+								</td>
+							</tr>
+							<tr>
+								<td>Transparenz der Wurf-Linien (1-270)</td>
+								<td><input type="number" name="transparency" value="90" /></td>
+							</tr>
+						</table>
+					</fieldset>
+					<input class="button" type="submit" value="Spiel starten!" />
+				</Form>
+			</div>
+		</div>
+	</body>
+</html>

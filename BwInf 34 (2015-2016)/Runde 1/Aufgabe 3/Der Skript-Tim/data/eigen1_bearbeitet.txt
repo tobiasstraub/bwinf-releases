@@ -1,0 +1,31 @@
+
+ +===========================================+
+ | Flaschenzug - Aufgabe 3                   |
+ +-------------------------------------------+
+ | Tim Hollmann (0003)                       |
+ | @ 34.Bundeswettbewerb Informatik 2015/'16 |
+ +===========================================+
+
+
+
+-----------------------------------------
+Übersicht: 
+Flaschen: 		1600
+
+Behälter:
+[1]	:290
+[2]	:280
+[3]	:50
+[4]	:160
+[5]	:130
+[6]	:230
+[7]	:20
+[8]	:110
+[9]	:300
+[10]	:70
+
+Berechne Kombinationen. Bitte warten... fertig.
+
+Kombinationen: 2047548734
+
+Drücken Sie [ENTER] zum Beenden ... 

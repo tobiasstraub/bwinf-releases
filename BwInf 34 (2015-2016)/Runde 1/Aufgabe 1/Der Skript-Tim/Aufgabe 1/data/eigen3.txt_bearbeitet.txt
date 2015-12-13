@@ -1,0 +1,29 @@
+
+ +===========================================+
+ | Kassiopeia v.2                            |
+ +-------------------------------------------+
+ | Tim Hollmann                              |
+ | @ 34.Bundeswettbewerb Informatik 2015/'16 |
+ +===========================================+
+
+
+Geladenes Spielfeld ( 7 x 12): 
+
+############
+#  #  #  # #
+##   #   # #
+#  #   #   #
+##   # # # #
+#  #   # # #
+############
+
+Startposition: (11 | 6)
+Anzahl der Weißen Felder: 35
+
+Starte Ermittlung der möglichen Wege...
+
+Ermittelte Wege: (0)
+
+ - Kein Weg gefunden. - 
+ Kassiopeia stirbt! :(
+

@@ -1,0 +1,28 @@
+
++-----------------------------------------------+ 
+| Mississippi v3 - DNS-Sequenzierungs-Programm  | 
+| Tim Hollmann @ 33.BwInf 2.Runde 3.Aufgabe     | 
++-----------------------------------------------+ 
+
+Eingelesene Zeichenketten-L[ae]nge:16571 (chrM.fa.txt)
+
+l:	15
+k:	9
+
+=== Verarbeitungsschritt 1 : Erstellen des Suffix-Baumes ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0.015 Sekunde(n).
+
+=== Verarbeitungsschritt 2 : Auswerten des erstellten Suffix-Baumes ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0 Sekunde(n).
+0 vorl[ae]ufige L[oe]sungen gefunden.
+
+=== Verarbeitungsschritt 3 : Filtern der L[oe]sungen ===
+Bitte warten...fertig.
+Ben[oe]tigte Zeit: 0 Sekunde(n).
+
+
+=== L[oe]sungen (0) :
+Nr.	H[ae]ufigkeit	L[ae]nge	Repetition
+---------------------------------------------------

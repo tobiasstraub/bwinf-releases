@@ -16,19 +16,23 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 
 **<a id="bwinf-34-r1-j2">Junioraufgabe 2</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | [Executables](/BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Junioraufgabe%202/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-1">Aufgabe 1</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-2">Aufgabe 2</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Der%20Skript-Tim/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Der%20Skript-Tim/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * sfz_java ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%202/sfz_java/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-3">Aufgabe 3</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
@@ -47,19 +51,23 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf33/aufgabenblatt331_simple.pdf)** | [Junioraufgabe 1](#bwinf-33-r1-j1) | [Junioraufgabe 2](#bwinf-33-r1-j2) | [Aufgabe 1](#bwinf-33-r1-1) | [Aufgabe 2](#bwinf-33-r1-2) | [Aufgabe 3](#bwinf-33-r1-3) | [Aufgabe 4](#bwinf-33-r1-4) | [Aufgabe 5](#bwinf-33-r1-5)
 
 **<a id="bwinf-33-r1-j1">Junioraufgabe 1</a>**<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%201/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%201/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-j2">Junioraufgabe 2</a>**<br>
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Der%20Skript-Tim/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Der%20Skript-Tim/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Junioraufgabe%202/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-1">Aufgabe 1</a>**<br>
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%201/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-2">Aufgabe 2</a>**<br>
 * ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/ByteSector) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%202/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-3">Aufgabe 3</a>**<br>
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Documents) | [Executables](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r1-4">Aufgabe 4</a>**<br>
@@ -67,6 +75,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 
 **<a id="bwinf-33-r1-5">Aufgabe 5</a>**<br>
 * ByteSector ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/ByteSector/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Der%20Skript-Tim/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%201/Aufgabe%205/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ### <a id="bwinf-33-r2"></a>Runde 2 (Januar - April 2015)
@@ -77,11 +86,13 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 * Naalunth ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Naalunth/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-2">Aufgabe 2</a>**<br>
+* Tim Hollmann ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Hollmann/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Hollmann/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Tim Schmidt ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Schmidt/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-3">Aufgabe 3</a>**<br>
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Naalunth/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Tim Hollmann ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Tim%20Hollmann/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Tim%20Hollmann/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Tim Schmidt ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Tim%20Schmidt/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="bwinf-32"></a>Bundeswettbewerb Informatik 32 (2013 / 2014)
@@ -92,6 +103,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 
 **<a id="bwinf-32-r1-j1">Junioraufgabe 1</a>**<br>
 * ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/ByteSector/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Der Skript-Tim ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/Der%20Skript-Tim/Source) | [Documents](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/Der%20Skript-Tim/Documents) | [Executables](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%201/Der%20Skript-Tim/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r1-j2">Junioraufgabe 2</a>**<br>
 * ByteSector ([Source](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Source) | [Documents](./BwInf%2032%20(2013-2014)/Runde%201/Junioraufgabe%202/ByteSector/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))

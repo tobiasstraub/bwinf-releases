@@ -34,6 +34,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Mooxmirror ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Mooxmirror/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-4">Aufgabe 4</a>**<br>

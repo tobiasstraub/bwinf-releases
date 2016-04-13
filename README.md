@@ -49,13 +49,13 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf34/aufgaben342.pdf)** | [Aufgabe 1](#bwinf-34-r2-1) | [Aufgabe 2](#bwinf-34-r2-2) | [Aufgabe 3](#bwinf-34-r2-3)
 
 **<a id="bwinf-34-r2-1">Aufgabe 1</a>**<br>
-* msrd0 ([Source](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/doc) | [Executables](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/doc) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r2-2">Aufgabe 2</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-34-r2-3">Aufgabe 3</a>**<br>
-* msrd0 ([Source](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/src) | [Documents](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/doc) | [Executables](./Bwinf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/src) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/doc) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="bwinf-33"></a>Bundeswettbewerb Informatik 33 (2014 / 2015)
 [Runde 1](#bwinf-33-r1) | [Runde 2](#bwinf-33-r2)
@@ -97,12 +97,12 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **<a id="bwinf-33-r2-1">Aufgabe 1</a>**<br>
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/Naalunth/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* msrd0 ([Source](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/doc) | [Executables](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/doc) | [Executables](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%201/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-2">Aufgabe 2</a>**<br>
 * Tim Hollmann ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Hollmann/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Hollmann/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Tim Schmidt ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/Tim%20Schmidt/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* msrd0 ([Source](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/src) | [Documents](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/doc) | [Executables](./Bwinf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/src) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/doc) | [Executables](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%202/msrd0/bin) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-33-r2-3">Aufgabe 3</a>**<br>
 * Marian ([Source](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2033%20(2014-2015)/Runde%202/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
@@ -142,13 +142,13 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf32/aufgaben322.pdf)** | [Aufgabe 1](#bwinf-32-r2-1) | [Aufgabe 2](#bwinf-32-r2-2) | [Aufgabe 3](#bwinf-32-r2-3)
 
 **<a id="bwinf-32-r2-1">Aufgabe 1</a>**<br>
-* msrd0 ([Source](./Bwinf%2032%20(2013-2014)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./Bwinf%2032%20(2013-2014)/Runde%202/Aufgabe%201/msrd0/doc) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2032%20(2013-2014)/Runde%202/Aufgabe%201/msrd0/src) | [Documents](./BwInf%2032%20(2013-2014)/Runde%202/Aufgabe%201/msrd0/doc) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-32-r2-2">Aufgabe 2</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-32-r2-3">Aufgabe 3</a>**<br>
-* msrd0 ([Source](./Bwinf%2032%20(2013-2014)/Runde%202/Aufgabe%203/msrd0/src) | [Documents](./Bwinf%2032%20(2013-2014)/Runde%202/Aufgabe%203/msrd0/doc) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* msrd0 ([Source](./BwInf%2032%20(2013-2014)/Runde%202/Aufgabe%203/msrd0/src) | [Documents](./BwInf%2032%20(2013-2014)/Runde%202/Aufgabe%203/msrd0/doc) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 
 ## <a id="contribution"></a>Contribution

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/examples">
+		<file>seilschaften0.txt</file>
+		<file>seilschaften1.txt</file>
+		<file>seilschaften2.txt</file>
+		<file>seilschaften3.txt</file>
+		<file>seilschaften4.txt</file>
+		<file>seilschaften5.txt</file>
+        <file>seilschaften6.txt</file>
+    </qresource>
+</RCC>

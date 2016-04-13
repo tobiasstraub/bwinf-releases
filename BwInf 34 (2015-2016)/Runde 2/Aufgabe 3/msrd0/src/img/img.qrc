@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="E">exit.png</file>
+        <file alias="-">failing.png</file>
+        <file alias="+">save.png</file>
+        <file alias="%">unsave.png</file>
+        <file alias="#">wall.png</file>
+    </qresource>
+</RCC>

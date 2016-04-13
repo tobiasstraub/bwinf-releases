@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/examples">
+    <file alias="0">0.txt</file>
+    <file alias="1">1.txt</file>
+    <file alias="2">2.txt</file>
+    <file alias="3">3.txt</file>
+    <file alias="4">4.txt</file>
+    <file alias="5">5.txt</file>
+    <file alias="6">6.txt</file>
+  </qresource>
+</RCC>

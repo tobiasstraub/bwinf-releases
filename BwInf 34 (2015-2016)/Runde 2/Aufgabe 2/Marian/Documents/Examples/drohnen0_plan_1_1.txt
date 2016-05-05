@@ -1,0 +1,9 @@
+0 0 OO_O
+1 0 OS_O
+2 0 OOOO
+0 1 WWSW
+1 1 WWNW
+2 1 WOWW
+0 2 __SS
+1 2 SWNN
+2 2 NN__

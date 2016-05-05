@@ -21,7 +21,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **<a id="bwinf-34-r1-1">Aufgabe 1</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Marian/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%201/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r1-2">Aufgabe 2</a>**<br>
@@ -33,7 +33,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 **<a id="bwinf-34-r1-3">Aufgabe 3</a>**<br>
 * ByteSector ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/ByteSector/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Der Skript-Tim ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Der%20Skript-Tim/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
-* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Marian/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Mooxmirror ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Mooxmirror/Source) | Keine Dokumente | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 * Naalunth ([Source](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%201/Aufgabe%203/Naalunth/Documents) | Keine Executables | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
@@ -52,10 +52,11 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 * msrd0 ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%201/msrd0/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r2-2">Aufgabe 2</a>**<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%202/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%202/Marian/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%202/Marian/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-34-r2-3">Aufgabe 3</a>**<br>
 * msrd0 ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/msrd0/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
+* Marian ([Source](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/Marian/Source) | [Documents](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/Marian/Documents) | [Executables](./BwInf%2034%20(2015-2016)/Runde%202/Aufgabe%203/Marian/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 ## <a id="bwinf-33"></a>Bundeswettbewerb Informatik 33 (2014 / 2015)
 [Runde 1](#bwinf-33-r1) | [Runde 2](#bwinf-33-r2)

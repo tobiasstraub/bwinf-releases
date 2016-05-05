@@ -1,0 +1,67 @@
+Welche Strategien sollen verwendet werden? Gib ohne Leerzeichen hintereinander 'y' für ja oder 'n' für nein ein. Eine leere Zeile verwendet die Standardwerte. (Standard: ynn)
+1. Alle Kombinationen durchprobieren
+2. Jede mögliche Auswahl der Zustände durchprobieren und immer die beste Kombination der anderen Kriterien verwenden
+3. Zufällig die Definition und Kriterien ermitteln
+nny
+Welche Kantenpriorität-Definitionen sollen verwendet werden? Gib ohne Leerzeichen hintereinander 'y' für ja oder 'n' für nein ein. Eine leere Zeile verwendet die Standardwerte. (Standard: yy)
+1. Distanz in der Kantenrichtung zum Ziel nur bei guten Kanten, ansonsten 0
+2. Distanz in der Kantenrichtung zum Ziel bei allen Kanten
+
+Welche Kriterien zur Auswahl von Zyklen sollen verwendet werden? Gib ohne Leerzeichen hintereinander 'y' für ja oder 'n' für nein ein. Eine leere Zeile verwendet die Standardwerte. (Standard: yyy)
+1. Zyklenlänge
+2. Summe der Prioritäten
+3. Durchschnitt der Prioritäten
+
+Welche Kriterien zur Auswahl von Zuständen sollen verwendet werden? Gib ohne Leerzeichen hintereinander 'y' für ja oder 'n' für nein ein. Eine leere Zeile verwendet die Standardwerte. (Standard: yy)
+1. Erster Zustand
+2. Kleinste Maximaldistanz, kleinste Gesamtdistanz
+
+Wie viele Zustände sollen maximal ausgewählt werden, im Fall, dass die Maximaldistanz nicht verkleinert wurde? Eine leere Zeile verwendet den Standardwert. (Standard: 2)
+
+Wie viele Schritte sollen zurückgegangen werden, im Fall, dass die Maximaldistanz nicht verkleinert wurde? Eine leere Zeile verwendet den Standardwert. (Standard: 0, dadurch wird gar kein Schritt rückgängig gemacht und der vorherige Parameter ist in diesem Fall egal)
+
+Es werden jetzt zufällige Kriterien verwendet.
+Verwende 'help' für eine Übersicht der Befehle.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Es wurde eine Lösung mit 20 Schritten nach 0.610422968864441 Sekunden gefunden.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 0.611378967761993 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 2.90253102779388 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 1.81644695997238 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 1.32216501235962 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 1.37957799434662 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 2.31518298387527 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 1.44122099876404 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 21 Schritte, es sind 6.96524703502655 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Es wurde eine bessere Lösung mit 19 Schritten nach 1.11578500270844 Sekunden gefunden.
+Der beste Plan mit zufälligen Einstellungen benötigte 19 Schritte, es sind 1.11762398481369 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 22 Schritte, es sind 2.12664401531219 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 0.992464005947113 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+qDer beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 6.85145503282547 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 21 Schritte, es sind 3.19074100255966 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 1.16481697559357 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 4.15303701162338 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 21 Schritte, es sind 2.18744999170303 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 20 Schritte, es sind 2.0798419713974 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Es wurde eine bessere Lösung mit 18 Schritten nach 1.24166697263718 Sekunden gefunden.
+Der beste Plan mit zufälligen Einstellungen benötigte 18 Schritte, es sind 1.24347299337387 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 19 Schritte, es sind 1.85474801063538 Sekunden vergangen.
+Es wird ein Plan mit zufälligen Einstellungen ertellt.
+Der beste Plan mit zufälligen Einstellungen benötigte 19 Schritte, es sind 2.01678597927094 Sekunden vergangen.

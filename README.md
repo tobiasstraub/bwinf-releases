@@ -1,9 +1,37 @@
 # Veröffentlichte Einsendungen zum Bundeswettbewerb Informatik
-Im September 2015 findet der [Bundeswettbewerb Informatik](http://www.bundeswettbewerb-informatik.de/) nun zum 34. mal statt. Jahr für Jahr entstehen großartige Lösungsansätze und Umsetzungen in Form von Programmen, für die unterschiedlichsten Probleme der Informatik. Wir finden, es sollte einen Ort geben, an dem die Ansätze und Umsetzungen für jeden einsehbar sind. So dass diese nach dem Bundeswettbewerb Informatik nicht in der Bedeutungslosigkeit verschwinden. Solltest Du in der Vergangenheit bereits eine Einsendung zum Bundeswettbewerb Informatik getätigt haben, so [sende deine damalige Arbeit hier doch bitte ein](#contribution). Falls Du jemanden kennst, der ebenfalls am Bundeswettbewerb Informatik teilgenommen hat, so erzähle ihr oder ihm doch hiervon.
+Im September 2016 findet der [Bundeswettbewerb Informatik](http://www.bundeswettbewerb-informatik.de/) nun zum 35. mal statt. Jahr für Jahr entstehen großartige Lösungsansätze und Umsetzungen in Form von Programmen, für die unterschiedlichsten Probleme der Informatik. Wir finden, es sollte einen Ort geben, an dem die Ansätze und Umsetzungen für jeden einsehbar sind. So dass diese nach dem Bundeswettbewerb Informatik nicht in der Bedeutungslosigkeit verschwinden. Solltest Du in der Vergangenheit bereits eine Einsendung zum Bundeswettbewerb Informatik getätigt haben, so [sende deine damalige Arbeit hier doch bitte ein](#contribution). Falls Du jemanden kennst, der ebenfalls am Bundeswettbewerb Informatik teilgenommen hat, so erzähle ihr oder ihm doch hiervon.
 
+* [Bundeswettbewerb Informatik 35](#bwinf-35)
 * [Bundeswettbewerb Informatik 34](#bwinf-34)
 * [Bundeswettbewerb Informatik 33](#bwinf-33)
 * [Bundeswettbewerb Informatik 32](#bwinf-32)
+
+## <a id="bwinf-35"></a>Bundeswettbewerb Informatik 35 (2016 / 2017)
+[Runde 1](#bwinf-35-r1)
+
+### <a id="bwinf-35-r1"></a>Runde 1 (September - November 2016)
+**[Aufgabenstellung](http://www.bundeswettbewerb-informatik.de/fileadmin/templates/bwinf/aufgaben/bwinf35/aufgabenblatt351_simple.pdf)** | [Junioraufgabe 1](#bwinf-35-r1-j1) | [Junioraufgabe 2](#bwinf-35-r1-j2) | [Aufgabe 1](#bwinf-35-r1-1) | [Aufgabe 2](#bwinf-35-r1-2) | [Aufgabe 3](#bwinf-35-r1-3) | [Aufgabe 4](#bwinf-35-r1-4) | [Aufgabe 5](#bwinf-35-r1-5)
+
+**<a id="bwinf-35-r1-j1">Junioraufgabe 1</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-j2">Junioraufgabe 2</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-1">Aufgabe 1</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-2">Aufgabe 2</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-3">Aufgabe 3</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-4">Aufgabe 4</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+
+**<a id="bwinf-35-r1-5">Aufgabe 5</a>**<br>
+Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 ## <a id="bwinf-34"></a>Bundeswettbewerb Informatik 34 (2015 / 2016)
 [Runde 1](#bwinf-34-r1) | [Runde 2](#bwinf-34-r2)

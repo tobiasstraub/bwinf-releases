@@ -181,4 +181,4 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 
 
 ## <a id="contribution"></a>Contribution
-Falls Du in der Vergangenheit am Bundeswettbewerb Informatik teilgenommen hast, kannst Du in diesem Repository deine Einsendung veröffentlichen. Mache dazu einen entsprechenden Pull Request. Keine Ahnung von Git und GitHub? - Dann sende deinen Beitrag an [hello@commitcollective.com](mailto:hello@commitcollective.com). Wichtig: Mache deinen Beitrag nur öffentlich, wenn die entsprechende Runde bereits beendet wurde.
+Falls Du in der Vergangenheit am Bundeswettbewerb Informatik teilgenommen hast, kannst Du in diesem Repository deine Einsendung veröffentlichen. Mache dazu einen entsprechenden Pull Request. Keine Ahnung von Git und GitHub? - Dann sende deinen Beitrag an [hello@tobiasstraub.com](mailto:hello@tobiasstraub.com). Wichtig: Mache deinen Beitrag nur öffentlich, wenn die entsprechende Runde bereits beendet wurde.

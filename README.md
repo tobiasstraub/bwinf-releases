@@ -19,7 +19,7 @@ Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast 
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
 
 **<a id="bwinf-35-r1-1">Aufgabe 1</a>**<br>
-Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
+* Flogex ([Source](./BwInf%2035%20(2016-2017)/Runde%201/Aufgabe%201/Flogex/Source) | [Documents](./BwInf%2035%20(2016-2017)/Runde%201/Aufgabe%201/Flogex/Documents) | [Executables](./BwInf%2035%20(2016-2017)/Runde%201/Aufgabe%201/Flogex/Executables) | [Diskussion starten](https://github.com/CommitCollective/bwinf-releases/issues/new))
 
 **<a id="bwinf-35-r1-2">Aufgabe 2</a>**<br>
 Leider sind noch keine Veröffentlichungen zu dieser Aufgabe vorhanden. Du hast diese Aufgabe bearbeitet? [Sende deine Lösung ein!](#contribution)
